@@ -1,9 +1,8 @@
-> **TODO: UBAH "NAMA" DAN "NPM" MENJADI NAMA DAN NPM KALIAN PADA KEMUDIAN HAPUS BARIS INI!**
 # Tugas Praktikum Struktur Data 08
 
 > Materi: Queue
 > Pengajar: Asisten Praktikum 2021
-## NAMA - NPM
+## Azka Ghafara Putra Agung - 140810200037
 
 **Harap untuk membaca instruksi terlebih dahulu sampai dipahami!**
 
